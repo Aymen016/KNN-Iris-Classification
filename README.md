@@ -115,7 +115,7 @@ This project is **open-source** and free to use under the **MIT License**. 🚀
 ---
 
 ## 📩 Contact
-📧 **Email:** [your-email@example.com](mailto:your-email@example.com)  
+📧 **Email:** [your-email@example.com](ayemenbaig26@gmail.com)  
 🐙 **GitHub:** [Your GitHub Profile](https://github.com/your-username)  
 💼 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)  
 
