@@ -116,8 +116,8 @@ This project is **open-source** and free to use under the **MIT License**. 🚀
 
 ## 📩 Contact
 📧 **Email:** [ayemenbaig26@gmail.com](ayemenbaig26@gmail.com)  
-🐙 **GitHub:** [https://github.com/Aymen016](https://github.com/your-username)  
-💼 **LinkedIn:** [(https://www.linkedin.com/in/aymen-baig)](https://www.linkedin.com/in/your-profile/)  
+🐙 **GitHub:** [https://github.com/Aymen016](https://github.com/Aymen016)  
+💼 **LinkedIn:** [(https://www.linkedin.com/in/aymen-baig)](https://www.linkedin.com/in/aymen-baig) 
 
 **Happy Learning!** 🚀🎯
 
